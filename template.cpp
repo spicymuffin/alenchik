@@ -7,6 +7,7 @@
 #include <ctime>
 #include <map>
 #include <sstream>
+#include <algorithm>
 
 using namespace std;
 
